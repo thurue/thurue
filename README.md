@@ -1,20 +1,9 @@
 ### ✋ Olá! eu sou o Arthur Seixas 
 ### 👇 Aqui estão algumas das mihas redes sociais 
-
-<style>
-a{
-     opacity: 1;
-     transition: all .4s
-} 
-a:hover{
-    opacity: .5;
-}
-</style>
-
 <div>
-<a targer="_blank" href="https://www.instagram.com/thuruez_/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 10px; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3); margin: 10px 0px"></img></a>
-<a targer="_blank" href="https://www.youtube.com/channel/UCqRVCLZtPPBDSi3U40fgTWA"><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 10px; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3); margin: 10px 0px"></img></a>
-<a targer="_blank" href="https://www.twitch.tv/thurue"><img alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" style="border-radius: 10px; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3); margin: 10px 0px"></img></a>
+     <a target="_blank" href="https://www.instagram.com/thuruez_/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 10px; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3); margin: 10px 0px"></img></a>
+     <a target="_blank" href="https://www.youtube.com/channel/UCqRVCLZtPPBDSi3U40fgTWA"><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 10px; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3); margin: 10px 0px"></img></a>
+     <a target="_blank" href="https://www.twitch.tv/thurue"><img alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" style="border-radius: 10px; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3); margin: 10px 0px"></img></a>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thurue&show_icons=true&theme=radical)
